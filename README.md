@@ -7,3 +7,5 @@
 
 
 [vs happy pizza](https://gaming99github.github.io/pizza)
+
+[eddsworld](https://gaming99github.github.io/eddsworld)
